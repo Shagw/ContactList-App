@@ -1,0 +1,9 @@
+.contact-details {
+  display: flex;
+  flex-direction: row;
+  margin: 15px 50px;
+  .address {
+    max-width: 150px;
+    margin: 0px 50px;
+  }
+}
